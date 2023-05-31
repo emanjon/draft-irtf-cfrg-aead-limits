@@ -5,10 +5,10 @@
 Network Working Group                                         F. Günther
 Internet-Draft                                                ETH Zurich
 Intended status: Informational                                M. Thomson
-Expires: 27 October 2023                                         Mozilla
+Expires: 2 December 2023                                         Mozilla
                                                               C. A. Wood
                                                               Cloudflare
-                                                           25 April 2023
+                                                             31 May 2023
 
 
                     Usage Limits on AEAD Algorithms
@@ -50,7 +50,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 27 October 2023.
+   This Internet-Draft will expire on 2 December 2023.
 
 Copyright Notice
 
